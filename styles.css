@@ -4,3 +4,9 @@ body {
   background-color: #F3E3C1;
   color: #182B1C !important;
 }
+
+  .btn-secondary {
+    background: #3F6349 !important;
+    color: #F3E3C1;
+}
+}
