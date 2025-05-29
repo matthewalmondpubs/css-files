@@ -27,4 +27,8 @@ body {
 .card {
     background-color: #FFF7DE;
 }
+
+.attendees-list .event-overview-btn.active
+ {
+    color: #3F6349 !important;
 }
