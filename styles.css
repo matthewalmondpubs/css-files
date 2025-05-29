@@ -38,3 +38,17 @@ body {
 .list-group-item {
 background-color: #FFF7DE !important;
 }
+
+.btn-danger.disabled, .btn-danger:disabled {
+    color: #fff;
+    background-color: #63605D;
+    border-color: #63605D;
+}
+
+.btn-danger
+Specificity: (0,1,0)
+ {
+    color: #fff;
+    background-color: #2B2725;
+    border-color: #2B2725;
+}
