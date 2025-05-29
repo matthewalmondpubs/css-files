@@ -32,7 +32,7 @@ body {
 .attendees-list .event-overview-btn.active
  {
     color: #3F6349 !important;
-    background-color: #FFF7DE;
+    background: #FFF7DE;
 }
 
 .list-group-item {
